@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+
+h3 {
+  font-family: "Manrope", sans-serif;
+}
+
+p {
+  font-family: "Manrope", sans-serif;
+}
+
+span {
+  font-family: "Manrope", sans-serif;
+}
+
+.inputField {
+  width: 75%;
+}
+
+select {
+  text-transform: uppercase;
+  appearance: none;
+}
+
+option {
+  outline: none;
+  border: none;
+  text-transform: uppercase;
+}
